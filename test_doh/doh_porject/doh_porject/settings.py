@@ -39,9 +39,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'car_count',
     'traffic_light_info',
-    # 'tailwind',
-    # 'django_browser_reload',
-    # 'theme'
+#     'tailwind',
+#     'django_browser_reload',
+#     'theme'
 ]
 
 # TAILWIND_APP_NAME = 'theme'
@@ -50,7 +50,7 @@ INSTALLED_APPS = [
 #     "127.0.0.1",
 # ]
 
-# NPM_BIN_PATH = r"C:\Program Files\nodejs\npm.cmd"
+# NPM_BIN_PATH = 'C:/Program Files/nodejs/npm.cmd'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
